@@ -1,0 +1,59 @@
+.heading {
+  color: blue;
+  text-align: center;
+}
+
+.welcomeParagraph {
+  text-align: center;
+  padding-top: 50px;
+  padding-right: 80px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50vh;
+}
+
+ul.navigationBar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navigationBar li {
+  float: left;
+}
+
+.navigationBar li :link {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li :link:hover {
+  background-color: lightblue;
+}
+
+.headingB {
+  color: blue;
+  text-align: center;
+}
+
+.headingC {
+  color: blue;
+  text-align: center;
+}
+
+.teamImage {
+  width: 49%;
+  height: 50vh;
+}
